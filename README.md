@@ -3,7 +3,7 @@
 
 🏆 Objectives
 
-Analyze the e-commerce funnel stages
+Analyze the e-commerce funnel stages.
 Identify conversion rates between each stage.
 Detect where most customers drop off.
 Segment analysis by device type, channel, and customer profile.
